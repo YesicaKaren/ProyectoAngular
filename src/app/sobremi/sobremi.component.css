@@ -1,0 +1,15 @@
+.fondo-color{
+    padding: 20px;
+    background-color: #2f3031;
+    color: #fff;
+}
+.contenidos{
+    font-family:Century Gothic, sans-serif;
+    max-width: 1100px;
+    padding-top: 2%;
+    margin:auto;
+
+}
+.espacios{
+    padding-top: 4%;
+}

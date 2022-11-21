@@ -1,0 +1,33 @@
+.redes-sociales a{
+    color:#fff;
+    display: auto;
+    border:1px solid #fff;
+    border-radius: 40px;
+    text-decoration: none;
+    width: 2px;
+    line-height: 5px;
+    font-size: 15px;
+    align-items: center ; 
+    background-size: cover;
+    padding: 7px;
+    background-color: #2f3031;    
+    text-align: center;
+    margin: 8px;
+    transition: .3s;
+  }
+  i.fa-brands.fa-facebook-f:hover{
+    color:blue;
+}
+ i.fa-brands.fa-instagram:hover{
+    color:magenta;
+}
+  i.fa-brands.fa-linkedin:hover{
+    color:blue;
+}
+  i.fa-solid.fa-user-lock:hover{
+    color:aqua;
+}
+i.fa-brands.fa-github:hover{
+    color: bisque;
+}   
+  
